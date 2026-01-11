@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I’m Dek 👋
+- a Software Engineer based in Atlanta, Georgia.
 
-<!--
-**ken-deku/ken-deku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly work with JavaScript, TypeScript, and React, and I enjoy building clean, reliable applications with a strong focus on maintainability and real-world use cases.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech I Work With
+
+Languages: JavaScript, TypeScript, Python, SQL
+
+Frontend: React, HTML, CSS
+
+Backend: Node.js, Express, REST APIs
+
+Databases: MongoDB, PostgreSQL, MySQL
+
+Tools & Platforms: Git, GitHub, Docker, AWS, Azure
+
+
+👤 A Bit About Me
+
+- I enjoy learning by building real projects
+- I enjoy coding, tech, and continuous self-improvement
+- Outside of tech, I enjoy spending time with family and staying active
+- I am also a gamer and movie lover!
