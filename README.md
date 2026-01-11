@@ -3,6 +3,7 @@ Hi, I’m Dek 👋
 
 I mostly work with JavaScript, TypeScript, and React, and I enjoy building clean, reliable applications with a strong focus on maintainability and real-world use cases.
 
+---
 
 🛠 Tech I Work With
 
@@ -16,7 +17,7 @@ Databases: MongoDB, PostgreSQL, MySQL
 
 Tools & Platforms: Git, GitHub, Docker, AWS, Azure
 
-
+---
 👤 A Bit About Me
 
 - I enjoy learning by building real projects
