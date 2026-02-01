@@ -5,7 +5,7 @@ I mostly work with JavaScript, TypeScript, and React, and I enjoy building clean
 
 ---
 
-🛠 Tech I Work With
+🛠 Tech Stack
 
 Languages: JavaScript, TypeScript, Python, SQL
 
@@ -16,6 +16,14 @@ Backend: Node.js, Express, REST APIs
 Databases: MongoDB, PostgreSQL, MySQL
 
 Tools & Platforms: Git, GitHub, Docker, AWS, Azure
+
+
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+
 
 ---
 👤 A Bit About Me
