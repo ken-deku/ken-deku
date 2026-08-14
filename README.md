@@ -21,9 +21,18 @@ Tools & Platforms: Git, GitHub, Docker, AWS, Azure
 
 
 ---
-👤 A Bit About Me
+$ whoami
+> Dek :: full stack developer ::
 
-- I enjoy learning by building real projects
-- I enjoy coding, tech, and continuous self-improvement
-- Outside of tech, I enjoy spending time with family and staying active
-- I am also a gamer and movie lover!
+$ stats --summary
+> 4+     years experience
+> 50+    enterprise production systems delivered
+> 10+    technologies used
+
+
+
+$ cat note.txt
+
+
+$ status
+> [██████████] open to Engineer roles & select contracts
