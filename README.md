@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dek%20&section=header&reversal=false&desc=Fullstack%20Developer&descSize=24&descAlignY=67)
 
-Hi, I’m Dek 👋
-- a Software Engineer based in Atlanta, Georgia.
-
-I mostly work with JavaScript, TypeScript, and React, and I enjoy building clean, reliable applications with a strong focus on maintainability and real-world use cases.
+### Hi, I'm Dek 👋
+Full-stack developer based in Atlanta — I build it, break it, ship it.
 
 ---
 
@@ -23,7 +21,7 @@ I mostly work with JavaScript, TypeScript, and React, and I enjoy building clean
 ---
 ```bash
 $ whoami
-> Dek :: Fullstack Developer :: US, remote
+> Dek :: Full-stack developer :: US, remote
 
 $ stats --summary
 > 3+   years experience
@@ -41,3 +39,12 @@ $ status
 
 [![Connect](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dek-m-0a6bb22b8/)
 [![5★ Verified](https://img.shields.io/badge/5★_VERIFIED-44BB44?style=for-the-badge)](#)
+
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ken-deku/ken-deku/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ken-deku/ken-deku/output/github-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ken-deku/ken-deku/output/github-snake.svg">
+</picture>
