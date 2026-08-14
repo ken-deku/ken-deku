@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=orange&height=200&section=header&text=Dek%20&fontSize=40&fontColor=fff&desc=Senior%20Full%20Stack%20Developer&descAlignY=60)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=orange&height=200&section=header&text=Dek%20&fontSize=40&fontColor=fff&desc=%20Full%20Stack%20Developer&descAlignY=60](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=orange&height=200&section=header&text=Dek%20&fontSize=40&fontColor=fff&desc=%20Full%20Stack%20Developer&descAlignY=60))
 
 Hi, I’m Dek 👋
 - a Software Engineer based in Atlanta, Georgia.
