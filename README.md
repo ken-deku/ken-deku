@@ -19,7 +19,11 @@ Tools & Platforms: Git, GitHub, Docker, AWS, Azure
 
 
 
+python djangoproject mysql postgresql firebase
 
+html5 css3 javascript react nextjs Astro tailwind sass
+
+git heroku
 
 
 ---
