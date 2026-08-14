@@ -28,7 +28,7 @@ $ stats --summary
 > 20+  systems delivered
 
 $ ls ./currently_shipping
-> TrialDock/   # description        → UAT/Sandbox
+> TrialDock/   # Chrome extension for quick-save & recall of tab URLs      → UAT/Sandbox
 
 $ status
 > open to roles & contracts
