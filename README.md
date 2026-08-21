@@ -30,7 +30,7 @@ $ ls ./currently_shipping
 > TrialDock/   # Chrome extension for quick-save & recall of tab URLs      → UAT/Sandbox
 
 $ status
-> open to roles & contracts
+> building projects and improving every day!
 ```
 
 
