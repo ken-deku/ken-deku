@@ -33,7 +33,6 @@ $ status
 > building projects and improving every day!
 ```
 
-
 ---
 
 [![Connect](https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dek-m-0a6bb22b8/)
